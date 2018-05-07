@@ -1,2 +1,3 @@
 # hello-github
-my first github projiect
+my first github project
+edit readme.md file text
